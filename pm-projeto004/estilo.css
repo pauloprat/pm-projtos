@@ -1,0 +1,94 @@
+
+
+ul{
+
+    padding: 0px;
+    
+        
+}
+
+li{
+
+    list-style-type: none;
+    color: #ffffff;
+    padding:60px 60px 60px 100px;
+    margin: 5px;
+    background-image: url('donesem.png');
+    background-repeat: no-repeat;
+    background-position: 20px center;
+    margin-bottom: 3px;
+    font-family: Oswald;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    background-image: url('seta.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    
+    
+    
+}
+
+li.feito{
+ 
+background-color: #27ae60;       
+
+letter-spacing: 2px;
+background-image: url('done.png') ;   
+    
+    
+}
+.feito:hover{
+    background-color:#52be7f;
+}
+.proj2:hover{
+    background-color: #27ae60;
+}
+
+.proj3:hover{
+    background-color: #27ae60;
+}
+.proj4:hover{
+    background-color: #4a4a4a;
+}
+
+.proj2{
+   
+   
+    background-color: rgba(74, 73, 74, 0.8);
+    font-family: Oswald;
+    font-size: 20px;
+    letter-spacing: 2px;
+    
+}
+
+
+.proj3{
+    
+     
+    
+    background-color: rgba(74, 73, 74, 0.8);
+    font-family: Oswald;
+    font-size: 20px;
+    letter-spacing: 2px;
+    
+    
+}
+.proj4{
+    
+     
+    
+    background-color: rgba(74, 73, 74, 0.8);
+    font-family: Oswald;
+    font-size: 20px;
+    letter-spacing: 2px;
+    
+    
+}

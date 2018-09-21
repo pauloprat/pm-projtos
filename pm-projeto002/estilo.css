@@ -1,0 +1,83 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 320px;
+    height: 568px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+   
+background-color: #e6e6e6;
+
+}
+.noticia {
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 0 0 10p 10px;
+    box-shadow: 0 10px 10px #999;
+    margin-bottom: 30px;
+    
+}
+
+.noticia .opcao{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.noticia .local{
+    
+    font-weight: bold;
+}
+.noticia .quando{
+    color: #999999;
+    font-family: "Open Sans";
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+h2{
+    width: 283px;
+    height: 52px;
+    color: red;
+    font-family: open-sans;
+    font-size: 16px;
+    font-weight: 700px;
+    line-height: 16px;
+}
+h3{
+    /* Style for "Rússia" */
+width: 55px;
+height: 16px;
+color: #333333;
+font-family: "Open Sans";
+font-size: 14px;
+font-weight: 600;
+line-height: 16px;
+text-transform: uppercase;
+    display: inline;
+}
+h4{
+    
+width: 246px;
+height: 16px;
+color: #999999;
+font-family: "Open Sans";
+font-size: 11px;
+font-weight: 300;
+line-height: 16px;
+display: inline;
+text-transform: uppercase;
+margin-left: 10px;    
+}
+
+p{
+    width: 283px;
+    height: 60px;
+    color: #333;
+    font-family: open-sans;
+}
+
+img{
+    
+width: 300px;
+height: 168px    
+}

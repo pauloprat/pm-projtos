@@ -1,0 +1,22 @@
+h1{
+    font-family: Arial;
+    text-align: center
+}
+
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Arial;
+
+    color: darkgray
+    
+}
+
+li{
+    padding: 12px;
+    margin: 12px;
+    color: antiquewhite;
+    background-color: #9b59b6;
+    font-size: 18px;
+        
+}
