@@ -1,0 +1,99 @@
+body{
+    background-color: #9b9b9b;
+    padding: 50px;
+    font-family: 'roboto' sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    -webkit-font-smoothing:antialiased;
+}
+table{
+    border: none;
+    margin: 0 auto;
+    background-color: #fff;
+    border-spacing: 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+   border-radius: 3px;
+   
+}
+table caption{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+   border-radius: 3px;
+    background-color: #fff;
+    font-size: 20px;
+    text-align: left;
+    font-weight: 500;
+    padding: 20px;
+    
+}
+
+table thead th{
+     padding: 5px; 
+      border-bottom: 1px solid #eee;
+      text-align: left;
+     
+  
+}
+
+td{
+
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    font-family: roboto;
+
+    
+   
+    
+    
+}
+
+tbody td:first-child ,thead th:first-child{
+    
+    text-align: center;
+}
+
+    
+}
+tr:hover {
+  background-color: #eee;
+    
+} 
+tr{
+    margin: 30px;
+    padding: 50px;
+    
+}
+input{
+    margin: 0px 20px 0px -10px;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+   border-radius: 3px;
+   background-color: #ffffff;
+    
+}
+ tfoot {
+ text-align: right;
+opacity: 0.54;
+color: #000000;
+font-size: 12px;
+font-weight: 400;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    
+}
+tfoot td{
+    padding-right: 20px;
+
+}
+tfoot span{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+}
+tfoot img{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+select{
+    border: none;s
+}
+
+
